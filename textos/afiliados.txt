@@ -1,0 +1,16 @@
+👋 <b>SISTEMA DE INDICAÇÕES</b>
+
+<b>📋 Como funciona:</b>
+├─ 💰 Ganhe 10% de cada recarga
+├─ 🎁 Ganhe 10% de cada gift resgatado
+└─ ✨ Exemplo: R$10,00 recarga = R$1,00 pra você
+
+<b>📊 SUAS ESTATÍSTICAS:</b>
+├─ 👥 <b>Total de indicados:</b> <i>{ind}</i>
+├─ 💳 <b>Fizeram recarga:</b> <i>{ind_recarga}</i>
+└─ 🏆 <b>Total ganho:</b> <i>R$ {valor_total}</i>
+
+<b>🔗 SEU LINK:</b>
+└─ <code>{lin}</code>
+
+<i>💡 Compartilhe seu link e comece a ganhar!</i>

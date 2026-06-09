@@ -1,0 +1,86 @@
+HISTÓRICO - USER: 7594980039
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 1.98
+Número: 84563294510
+Data: 31/01/2026 as 13:22:12
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 2.7074999999999996
+Número: 84568782790
+Data: 02/03/2026 as 10:02:07
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 2.85
+Número: 84562701423
+Data: 02/03/2026 as 10:09:07
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 2.7074999999999996
+Número: 84568863779
+Data: 02/03/2026 as 11:02:12
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 2.7074999999999996
+Número: 84568865932
+Data: 02/03/2026 as 12:11:32
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 2.8500000000000005
+Número: 212772701122
+Data: 08/03/2026 as 11:56:38
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 2.85
+Número: 212679165855
+Data: 08/03/2026 as 11:59:03
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 2.7074999999999996
+Número: 84566936708
+Data: 11/03/2026 as 20:28:23
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 2.85
+Número: 84566938346
+Data: 11/03/2026 as 20:34:17
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 2.85
+Número: 84563106282
+Data: 11/03/2026 as 20:37:01
+Status: ⏳ Ativa/Expirada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0f80047-ecfa-42a4-9cec-b43c2d1100e2
+Valor: R$3.0
+Data: 31/01/2026 as 11:36:10
+
+Id pagamento: or_jeAJbE3sZLcOYr4R
+Valor: R$3.0
+Data: 02/03/2026 as 09:38:31
+
+Id pagamento: or_v279yVNtgiByqGJx
+Valor: R$3.0
+Data: 02/03/2026 as 11:00:54
+
+Id pagamento: a14070df-b3de-4a5f-b100-78ea9340a3f1
+Valor: R$3.0
+Data: 08/03/2026 as 11:50:37
+
+Id pagamento: a14732a2-1db9-4053-8823-9c23656323a3
+Valor: R$3.0
+Data: 11/03/2026 as 20:27:22

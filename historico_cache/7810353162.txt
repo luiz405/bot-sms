@@ -1,0 +1,326 @@
+HISTÓRICO - USER: 7810353162
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 2.94
+Número: 639858668298
+Data: 27/11/2025 as 00:43:08/
+
+Serviço: Whatsapp
+Valor: 2.94
+Número: 639976677993
+Data: 27/11/2025 as 06:27:38/
+
+Serviço: Whatsapp
+Valor: 2.94
+Número: 639621978225
+Data: 27/11/2025 as 10:28:57/
+
+Serviço: Whatsapp
+Valor: 2.96
+Número: 639552548997
+Data: 27/11/2025 as 14:54:37/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285133255267
+Data: 28/11/2025 as 06:17:36/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285775108180
+Data: 28/11/2025 as 13:33:33/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6283848353651
+Data: 28/11/2025 as 17:32:38/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 628984911523
+Data: 28/11/2025 as 23:43:49/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6283166787756
+Data: 29/11/2025 as 15:07:08/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6283869160633
+Data: 29/11/2025 as 15:19:57/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285881319757
+Data: 30/11/2025 as 11:36:57/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285797946224
+Data: 30/11/2025 as 15:04:34/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285191880158
+Data: 30/11/2025 as 16:26:10/
+
+Serviço: Whatsapp
+Valor: 1.86
+Número: 6285191880941
+Data: 30/11/2025 as 21:31:21/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285726782521
+Data: 01/12/2025 as 00:00:21/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6283177245900
+Data: 01/12/2025 as 00:21:11/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285774013084
+Data: 01/12/2025 as 17:59:02/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6282117462856
+Data: 01/12/2025 as 18:07:22/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6283124489853
+Data: 01/12/2025 as 18:14:45/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285863037656
+Data: 01/12/2025 as 18:37:25/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 62895429215744
+Data: 01/12/2025 as 18:45:56/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285143652766
+Data: 01/12/2025 as 20:44:32/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6285133036787
+Data: 01/12/2025 as 21:30:48/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6283894451684
+Data: 02/12/2025 as 11:02:14/
+
+Serviço: Whatsapp
+Valor: 1.88
+Número: 6287845792171
+Data: 02/12/2025 as 11:37:11/
+
+Serviço: Whatsapp
+Valor: 1.82
+Número: 6281313174093
+Data: 02/12/2025 as 13:34:41/
+
+Serviço: Whatsapp
+Valor: 1.82
+Número: 6285801095669
+Data: 02/12/2025 as 20:46:35/
+
+Serviço: Whatsapp
+Valor: 1.82
+Número: 6283874104024
+Data: 02/12/2025 as 23:48:55/
+
+Serviço: Whatsapp
+Valor: 1.86
+Número: 6283894457626
+Data: 03/12/2025 as 00:17:20/
+
+Serviço: Whatsapp
+Valor: 2.94
+Número: 639754309758
+Data: 03/12/2025 as 14:25:53/
+
+Serviço: Whatsapp
+Valor: 2.94
+Número: 639050933301
+Data: 03/12/2025 as 16:15:31/
+
+Serviço: Whatsapp
+Valor: 2.92
+Número: 639679830151
+Data: 03/12/2025 as 21:16:55/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0744efa-386d-4a0b-88f8-0d1659dbc4cf
+Valor: R$3.0
+Data: 27/11/2025 as 00:26:57
+
+Id pagamento: a0744efa-386d-4a0b-88f8-0d1659dbc4cf
+Valor: R$3.0
+Data: 27/11/2025 as 00:27:33
+
+Id pagamento: a074cbca-152b-4974-bddd-11e4b6c7ea19
+Valor: R$3.0
+Data: 27/11/2025 as 06:15:57
+
+Id pagamento: a074cbca-152b-4974-bddd-11e4b6c7ea19
+Valor: R$3.0
+Data: 27/11/2025 as 06:16:33
+
+Id pagamento: a075247a-65a4-4375-8ac9-55f48c7c0068
+Valor: R$3.0
+Data: 27/11/2025 as 10:23:56
+
+Id pagamento: a075247a-65a4-4375-8ac9-55f48c7c0068
+Valor: R$3.0
+Data: 27/11/2025 as 10:24:42
+
+Id pagamento: a0757d4c-5f5d-4fd8-8a4c-b3e84fc1501e
+Valor: R$3.0
+Data: 27/11/2025 as 14:32:18
+
+Id pagamento: a0757d4c-5f5d-4fd8-8a4c-b3e84fc1501e
+Valor: R$3.0
+Data: 27/11/2025 as 14:32:54
+
+Id pagamento: a0761544-7d9c-4bf3-9cb6-979a3b3f0e57
+Valor: R$3.0
+Data: 27/11/2025 as 21:37:14
+
+Id pagamento: a0761544-7d9c-4bf3-9cb6-979a3b3f0e57
+Valor: R$3.0
+Data: 27/11/2025 as 21:38:05
+
+Id pagamento: a0776a82-26ba-43cb-a860-1acb89f9d4db
+Valor: R$3.0
+Data: 28/11/2025 as 13:31:25
+
+Id pagamento: a0776a82-26ba-43cb-a860-1acb89f9d4db
+Valor: R$3.0
+Data: 28/11/2025 as 13:31:56
+
+Id pagamento: a0783bc0-4391-4e45-b094-94557517cb9d
+Valor: R$3.0
+Data: 28/11/2025 as 23:16:30
+
+Id pagamento: a0783bc0-4391-4e45-b094-94557517cb9d
+Valor: R$3.0
+Data: 28/11/2025 as 23:17:16
+
+Id pagamento: a0784776-f2bd-48ca-8ac6-9831879af202
+Valor: R$3.0
+Data: 28/11/2025 as 23:49:15
+
+Id pagamento: a0784776-f2bd-48ca-8ac6-9831879af202
+Valor: R$3.0
+Data: 28/11/2025 as 23:49:56
+
+Id pagamento: a0799f08-1468-4300-b239-6ceece23d321
+Valor: R$3.0
+Data: 29/11/2025 as 15:49:56
+
+Id pagamento: a0799f08-1468-4300-b239-6ceece23d321
+Valor: R$3.0
+Data: 29/11/2025 as 15:50:37
+
+Id pagamento: a07bad7e-e9a5-4df8-a315-271b77ae8e0b
+Valor: R$3.0
+Data: 30/11/2025 as 16:22:02
+
+Id pagamento: a07bad7e-e9a5-4df8-a315-271b77ae8e0b
+Valor: R$3.0
+Data: 30/11/2025 as 16:22:38
+
+Id pagamento: a07c1582-1d08-4716-bcff-3209c57b7531
+Valor: R$3.0
+Data: 30/11/2025 as 21:12:52
+
+Id pagamento: a07c1582-1d08-4716-bcff-3209c57b7531
+Valor: R$3.0
+Data: 30/11/2025 as 21:13:33
+
+Id pagamento: a07c5603-a09b-475d-8796-b1cc04fe8379
+Valor: R$3.0
+Data: 01/12/2025 as 00:13:15
+
+Id pagamento: a07c5603-a09b-475d-8796-b1cc04fe8379
+Valor: R$3.0
+Data: 01/12/2025 as 00:13:46
+
+Id pagamento: a07dcf7e-8dff-422b-a8b8-3f04ea7c09d6
+Valor: R$5.0
+Data: 01/12/2025 as 17:48:45
+
+Id pagamento: a07dcf7e-8dff-422b-a8b8-3f04ea7c09d6
+Valor: R$5.0
+Data: 01/12/2025 as 17:50:11
+
+Id pagamento: a07ddb01-668a-4624-b0d9-0d205326249a
+Valor: R$5.0
+Data: 01/12/2025 as 18:20:57
+
+Id pagamento: a07ddb01-668a-4624-b0d9-0d205326249a
+Valor: R$5.0
+Data: 01/12/2025 as 18:22:23
+
+Id pagamento: a07e1e16-2631-456f-a9dc-ce2ae256d582
+Valor: R$10.0
+Data: 01/12/2025 as 21:28:31
+
+Id pagamento: a07e1e16-2631-456f-a9dc-ce2ae256d582
+Valor: R$10.0
+Data: 01/12/2025 as 21:29:12
+
+Id pagamento: a08051d0-7d23-4312-8073-8cb38ecab058
+Valor: R$3.0
+Data: 02/12/2025 as 23:44:49
+
+Id pagamento: a08051d0-7d23-4312-8073-8cb38ecab058
+Valor: R$3.0
+Data: 02/12/2025 as 23:45:25
+
+Id pagamento: a0818552-8eac-4abb-9022-e7a80ebd284e
+Valor: R$3.0
+Data: 03/12/2025 as 14:04:40
+
+Id pagamento: a0818552-8eac-4abb-9022-e7a80ebd284e
+Valor: R$3.0
+Data: 03/12/2025 as 14:05:21
+
+Id pagamento: a081b35a-28f2-4fad-8841-912c7d169179
+Valor: R$3.0
+Data: 03/12/2025 as 16:13:23
+
+Id pagamento: a081b35a-28f2-4fad-8841-912c7d169179
+Valor: R$3.0
+Data: 03/12/2025 as 16:13:58
+
+Id pagamento: a0821905-8011-431c-a56e-51c825af2188
+Valor: R$3.0
+Data: 03/12/2025 as 20:57:40
+
+Id pagamento: a0821905-8011-431c-a56e-51c825af2188
+Valor: R$3.0
+Data: 03/12/2025 as 20:58:21
+
+Id pagamento: a08250b1-6f53-4d25-a843-f43d913401df
+Valor: R$5.0
+Data: 03/12/2025 as 23:33:20
+
+Id pagamento: a08250b1-6f53-4d25-a843-f43d913401df
+Valor: R$5.0
+Data: 03/12/2025 as 23:44:52

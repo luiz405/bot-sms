@@ -1,0 +1,12 @@
+{
+    "servicos_destaque": [
+        "tg",
+        "wa",
+        "ub",
+        "am",
+        "ig",
+        "fb"
+    ],
+    "max_servicos_destaque": 10,
+    "posicao_destaque": "inicio"
+}

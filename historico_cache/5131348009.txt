@@ -1,0 +1,51 @@
+HISTÓRICO - USER: 5131348009
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 11.8
+Número: 5563981029519
+Data: 09/11/2025 as 12:13:44/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a051114a-1514-43b0-b1f2-99adb0bc2fe2
+Valor: R$3.0
+Data: 09/11/2025 as 12:00:29
+
+Id pagamento: a051114a-1514-43b0-b1f2-99adb0bc2fe2
+Valor: R$3.0
+Data: 09/11/2025 as 12:01:30
+
+Id pagamento: a0511365-c360-4d69-a658-f110a74097ca
+Valor: R$3.0
+Data: 09/11/2025 as 12:06:23
+
+Id pagamento: a051140f-cab5-4456-b22d-d30baa4c230b
+Valor: R$3.0
+Data: 09/11/2025 as 12:08:14
+
+Id pagamento: a051149d-9d56-4db9-81cf-81e0af2e93d8
+Valor: R$3.1
+Data: 09/11/2025 as 12:09:47
+
+Id pagamento: a051149d-9d56-4db9-81cf-81e0af2e93d8
+Valor: R$3.1
+Data: 09/11/2025 as 12:10:37
+
+Id pagamento: a0511557-b402-4ab4-b31d-1473e1fb0e44
+Valor: R$5.7
+Data: 09/11/2025 as 12:11:49
+
+Id pagamento: a0511557-b402-4ab4-b31d-1473e1fb0e44
+Valor: R$5.7
+Data: 09/11/2025 as 12:12:29
+
+Id pagamento: a054190a-7707-4d1b-b9f8-41185dcb3c73
+Valor: R$3.0
+Data: 11/11/2025 as 00:09:38
+
+Id pagamento: a054190a-7707-4d1b-b9f8-41185dcb3c73
+Valor: R$3.0
+Data: 11/11/2025 as 00:10:24

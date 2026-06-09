@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 5019759204
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a06f4b7e-7d2b-4ec5-a771-8e9e7feec0b0
+Valor: R$12.0
+Data: 24/11/2025 as 12:38:04
+
+Id pagamento: a06f4b7e-7d2b-4ec5-a771-8e9e7feec0b0
+Valor: R$12.0
+Data: 24/11/2025 as 12:40:21

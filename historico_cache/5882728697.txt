@@ -1,0 +1,26 @@
+HISTÓRICO - USER: 5882728697
+
+COMPRAS:
+
+Serviço: 99app
+Valor: 2.2800000000000002
+Número: 5597999330071
+Data: 05/04/2026 as 22:51:29
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: 99app
+Valor: 2.052
+Número: 5511940619499
+Data: 09/04/2026 as 19:46:09
+Status: ✅ Concluída (SMS recebido)
+
+__________________________________
+RECARGAS:
+
+Id pagamento: or_q5xMAQyuGS8AoakO
+Valor: R$3.0
+Data: 05/04/2026 as 22:50:42
+
+Id pagamento: or_zj7JBKpHDcyjvKbX
+Valor: R$3.0
+Data: 09/04/2026 as 19:45:08

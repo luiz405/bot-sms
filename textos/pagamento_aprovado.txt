@@ -1,0 +1,9 @@
+✅ <b>PAGAMENTO APROVADO!</b>
+
+💰 <b>Valor:</b> R${valor}
+🆔 <b>ID do Pagamento:</b> {id_pagamento}
+
+🎉 Seu saldo foi creditado com sucesso!
+💳 <b>Saldo atual:</b> R${saldo}
+
+Obrigado por escolher nossos serviços!

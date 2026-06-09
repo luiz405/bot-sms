@@ -1,0 +1,20 @@
+👋 <b>Olá {first_name}!</b>
+
+<b>Seja bem-vindo ao melhor serviço de ativação sms. Receba sms para ativar seus cadastros whatsapp,netflix,uber,99 e muitos outros apps</b>
+
+<b>🚩 País selecionado:</b> {pais_nome}
+
+<b>💰 Saldo total:</b> R$ {saldo}
+
+<b>🏦 CARTEIRA:</b>
+├ 💷 <b>Saldo recarregado:</b> R$ {saldo_recarregado}
+├ 💸 <b>Saldo recebido:</b> R$ {saldo_recebido}
+├ 💳 <b>Saldo resgatado (Gift):</b> R$ {saldo_gift}
+├ 💵 <b>Bônus (recarga):</b> R$ {bonus_recarga}
+└ 💶 <b>Bônus (referência):</b> R$ {bonus_referencia}
+
+<b>⚠️ AVISOS IMPORTANTES:</b>
+├ 📱 Se travar no celular, saia e abra novamente
+└ 🌍 Para WhatsApp internacional, use VPN
+
+<i>👇 Navegue pelo menu abaixo</i>

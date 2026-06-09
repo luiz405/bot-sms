@@ -1,0 +1,3 @@
+<b>🥳 PAGAMENTO APROVADO!</b>
+<b>├💸 VALOR:</b> {valor}
+<b>└🆔 ID DO PAGAMENTO:</b> <code>{id_pagamento}</code>

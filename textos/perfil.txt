@@ -1,0 +1,22 @@
+<b>🧾 SUAS INFORMAÇÕES:
+├👤 Nome: {first_name}
+├💠 Username: {username}
+└🆔 ID: <code>{id}</code>
+
+
+💰 CARTEIRA:
+├🆔 ID Da Carteira: <code>{id}</code>
+└💸 Saldo Atual: <i>R${saldo}</i>
+
+
+🛒 COMPRAS:
+├🛒 Números Comprados: <i>{quantidade_compras}</i>
+├💠 Pix Inseridos: <i>R${pix_inseridos}</i>
+└🎁 Gifts Resgatados: <i>R${gifts_resgatados}</i>
+
+
+🏆 INDICAÇÃO:
+├🥇 Pontos De Indicação: {pontos_indicacao}
+├👥 Total De Indicados: {quantidade_afiliados}
+└🔗 Seu Link De Indicação: <code>{link_afiliado}</code>
+(Só basta o usuário clicar, vai entrar na conversa com o bot, e depois clicar em INICIAR.)</b>

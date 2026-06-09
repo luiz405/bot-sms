@@ -1,0 +1,74 @@
+HISTÓRICO - USER: 5229709485
+
+COMPRAS:
+
+Serviço: AOL
+Valor: 0.12825
+Número: 5516981127685
+Data: 20/02/2026 as 22:30:07
+Status: 💰 Reembolsada
+
+Serviço: Discord
+Valor: 0.14250000000000002
+Número: 5516999563552
+Data: 20/02/2026 as 22:40:14
+Status: 💰 Reembolsada
+
+______________________________
+RECARGAS:
+
+ID: 130989024412
+Valor: R$1.0
+Data: 23/10/2025 as 08:15:47
+
+ID: a03f1030-f6aa-4374-a7c9-d6b905967f70
+Valor: R$1.0
+Data: 31/10/2025 as 13:12:31
+
+ID: a03fa78a-a7bc-42d4-a429-b6553c31e4d1
+Valor: R$1.0
+Data: 31/10/2025 as 20:15:43
+
+ID: a03fadc3-1d2f-479f-ac7f-02c1ff728cfd
+Valor: R$3.0
+Data: 31/10/2025 as 20:33:06
+
+ID: a07e50a6-f8ec-4397-a4d6-9837dd7f55b4
+Valor: R$3.0
+Data: 01/12/2025 as 23:49:54
+
+ID: a07e52fb-9939-4486-9fd1-c4e382236d80
+Valor: R$3.0
+Data: 01/12/2025 as 23:56:25
+
+ID: a07e55aa-080d-46d3-a93f-e7c597b4260b
+Valor: R$3.0
+Data: 02/12/2025 as 00:03:55
+
+ID: a0b574d1-04a3-43f2-bbaa-9043c442b29b
+Valor: R$10.0
+Data: 29/12/2025 as 09:41:34
+
+ID: a0c3d224-5602-49a8-b300-7aa79259cf26
+Valor: R$3.0
+Data: 05/01/2026 as 13:04:07
+
+ID: a1172171-f7fc-4a75-8d5d-4e0e20b5f71a
+Valor: R$1.0
+Data: 15/02/2026 as 22:59:34
+
+ID: or_dQ4MKodULUzl8LgY
+Valor: R$1.0
+Data: 20/02/2026 as 17:37:52
+
+ID: or_OgXJKA0cyYcPqn8x
+Valor: R$1.0
+Data: 20/02/2026 as 18:00:01
+
+ID: or_vAZYjx5U2UrLV7x9
+Valor: R$1.0
+Data: 20/02/2026 as 19:42:00
+
+ID: or_goxAMQRH0SOLvW6w
+Valor: R$1.0
+Data: 20/02/2026 as 21:03:33

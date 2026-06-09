@@ -1,0 +1,1 @@
+💰 <b>SEU SALDO:</b> <code>R${saldo}</code>

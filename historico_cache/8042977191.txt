@@ -1,0 +1,226 @@
+HISTÓRICO - USER: 8042977191
+
+COMPRAS:
+
+Serviço: Netflix
+Valor: 1.48
+Número: 5521959475219
+Data: 01/10/2025 as 01:09:23/
+
+Serviço: Netflix
+Valor: 1.54
+Número: 5579991770032
+Data: 12/10/2025 as 15:07:36/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5512982081092
+Data: 18/10/2025 as 18:39:01/
+
+Serviço: Netflix
+Valor: 1.52
+Número: 5519987100028
+Data: 21/10/2025 as 11:16:32/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5521965960464
+Data: 25/10/2025 as 01:35:09/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5512982986018
+Data: 27/10/2025 as 00:27:46/
+
+Serviço: Netflix
+Valor: 1.46
+Número: 5561998480783
+Data: 27/10/2025 as 02:19:17/
+
+Serviço: Netflix
+Valor: 1.52
+Número: 5561982182740
+Data: 02/11/2025 as 08:51:12/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5519981815593
+Data: 04/11/2025 as 04:30:37/
+
+Serviço: Netflix
+Valor: 1.5
+Número: 5541963470089
+Data: 18/11/2025 as 17:35:31/
+
+Serviço: Netflix
+Valor: 1.52
+Número: 5582956349487
+Data: 21/11/2025 as 18:05:27/
+
+Serviço: Netflix
+Valor: 1.52
+Número: 5511957200075
+Data: 21/11/2025 as 18:14:11/
+
+Serviço: Netflix
+Valor: 1.5
+Número: 5521965062198
+Data: 29/11/2025 as 09:57:20/
+
+Serviço: Netflix
+Valor: 1.5
+Número: 5585976093615
+Data: 29/11/2025 as 20:50:33/
+
+Serviço: Netflix
+Valor: 1.5
+Número: 5516982300026
+Data: 01/12/2025 as 16:59:01/
+
+Serviço: Netflix
+Valor: 1.46
+Número: 5521960018839
+Data: 05/12/2025 as 12:07:07/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5511918177291
+Data: 08/12/2025 as 21:02:43/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5531910020872
+Data: 08/12/2025 as 21:10:41/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5585976083188
+Data: 09/12/2025 as 09:03:15/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5511967794577
+Data: 10/12/2025 as 04:57:03/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5511977860395
+Data: 10/12/2025 as 04:59:50/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5511977878507
+Data: 10/12/2025 as 05:06:02/
+
+Serviço: Amazon
+Valor: 0.34
+Número: 5511953985301
+Data: 16/12/2025 as 21:51:15/
+
+Serviço: Amazon
+Valor: 0.34
+Número: 5511980127923
+Data: 16/12/2025 as 22:05:37/
+
+Serviço: Netflix
+Valor: 1.54
+Número: 5531910073305
+Data: 17/12/2025 as 18:05:56/
+
+Serviço: Netflix
+Valor: 1.46
+Número: 5567981230018
+Data: 17/12/2025 as 18:12:03/
+
+Serviço: Netflix
+Valor: 1.56
+Número: 5511940951875
+Data: 18/12/2025 as 18:10:25/
+
+Serviço: Netflix
+Valor: 1.56
+Número: 5567936185160
+Data: 20/12/2025 as 08:19:29/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: 127055957882
+Valor: R$2.0
+Data: 21/09/2025 as 20:06:15
+
+Id pagamento: 129889346401
+Valor: R$1.0
+Data: 18/10/2025 as 18:36:27
+
+Id pagamento: 130057313385
+Valor: R$1.0
+Data: 20/10/2025 as 14:57:37
+
+Id pagamento: 130749758132
+Valor: R$1.0
+Data: 21/10/2025 as 11:15:56
+
+Id pagamento: 131226673582
+Valor: R$1.0
+Data: 25/10/2025 as 01:31:59
+
+Id pagamento: 131425344884
+Valor: R$1.6
+Data: 27/10/2025 as 02:18:29
+
+Id pagamento: a041b96d-e993-4bee-ad04-eac44a5f8ef9
+Valor: R$3.0
+Data: 01/11/2025 as 20:57:23
+
+Id pagamento: a041b96d-e993-4bee-ad04-eac44a5f8ef9
+Valor: R$3.0
+Data: 01/11/2025 as 21:03:29
+
+Id pagamento: a069b63b-76b8-4422-91da-4605520c20fc
+Valor: R$3.0
+Data: 21/11/2025 as 18:01:34
+
+Id pagamento: a069b63b-76b8-4422-91da-4605520c20fc
+Valor: R$3.0
+Data: 21/11/2025 as 18:04:24
+
+Id pagamento: a0791f21-a02b-4db0-916d-61f69e925243
+Valor: R$3.0
+Data: 29/11/2025 as 09:52:18
+
+Id pagamento: a0791f21-a02b-4db0-916d-61f69e925243
+Valor: R$3.0
+Data: 29/11/2025 as 09:55:44
+
+Id pagamento: a07db8d1-cf81-4b5b-8020-2f8f974f6877
+Valor: R$3.0
+Data: 01/12/2025 as 16:45:21
+
+Id pagamento: a07db8d1-cf81-4b5b-8020-2f8f974f6877
+Valor: R$3.0
+Data: 01/12/2025 as 16:49:48
+
+Id pagamento: a08c2755-8ad0-4d11-8e75-ce618da75402
+Valor: R$3.0
+Data: 08/12/2025 as 20:55:58
+
+Id pagamento: a08c2755-8ad0-4d11-8e75-ce618da75402
+Valor: R$3.0
+Data: 08/12/2025 as 20:57:29
+
+Id pagamento: a09e029d-ce8a-4ffc-a4e7-4acf64d9e912
+Valor: R$3.0
+Data: 17/12/2025 as 17:58:12
+
+Id pagamento: a09e029d-ce8a-4ffc-a4e7-4acf64d9e912
+Valor: R$3.0
+Data: 17/12/2025 as 17:59:48
+
+Id pagamento: a0a008fc-12ff-45d8-9575-5b3ddf3472aa
+Valor: R$3.0
+Data: 18/12/2025 as 18:07:40
+
+Id pagamento: a0a008fc-12ff-45d8-9575-5b3ddf3472aa
+Valor: R$3.0
+Data: 18/12/2025 as 18:09:41

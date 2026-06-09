@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 8380174492
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0b03719-d7d4-402a-b50b-20c68667e701
+Valor: R$10.0
+Data: 26/12/2025 as 19:09:51
+
+Id pagamento: a0b03719-d7d4-402a-b50b-20c68667e701
+Valor: R$10.0
+Data: 26/12/2025 as 19:10:57

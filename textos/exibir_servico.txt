@@ -1,0 +1,6 @@
+<b>🏳️‍🌈 País: <i>{pais}</i>
+📲 Serviço: <i>{servico}</i>
+💰 Valor: <i>R${valor}</i>
+📦 Estoque: <i>{count}</i>
+
+Escolha a operadora abaixo:</b>

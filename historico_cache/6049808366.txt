@@ -1,0 +1,23 @@
+HISTÓRICO - USER: 6049808366
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 9.3
+Número: 447514000122
+Data: 13/10/2025 as 23:59:28/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: 129262733091
+Valor: R$12.02
+Data: 13/10/2025 as 23:48:51
+
+Id pagamento: 129656548989
+Valor: R$6.54
+Data: 16/10/2025 as 22:20:24
+
+Id pagamento: 129656319963
+Valor: R$2.72
+Data: 16/10/2025 as 22:29:56

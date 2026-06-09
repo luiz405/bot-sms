@@ -1,0 +1,114 @@
+HISTÓRICO - USER: 1515330268
+
+COMPRAS:
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5511957537898
+Data: 05/11/2025 as 09:16:57
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5511968030006
+Data: 05/11/2025 as 09:50:50
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5511977873816
+Data: 05/11/2025 as 09:52:51
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5511965528458
+Data: 18/12/2025 as 08:32:58
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5587957460728
+Data: 19/01/2026 as 10:29:42
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5551926340696
+Data: 19/01/2026 as 14:35:41
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5511960303121
+Data: 19/01/2026 as 15:35:52
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5581976065834
+Data: 20/01/2026 as 08:20:42
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5563976055132
+Data: 20/01/2026 as 08:25:41
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5545999906267
+Data: 23/01/2026 as 08:47:52
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5565976045781
+Data: 24/01/2026 as 17:45:01
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5596976054270
+Data: 24/01/2026 as 18:11:42
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5533976018605
+Data: 24/01/2026 as 18:18:51
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5516998894066
+Data: 24/01/2026 as 20:10:32
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 0.94
+Número: 5516988463780
+Data: 24/01/2026 as 20:16:12
+Status: ⏳ Ativa/Expirada
+
+Serviço: Amazon
+Valor: 1.2825
+Número: 5531933025199
+Data: 23/02/2026 as 09:38:30
+Status: ⏳ Ativa/Expirada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a048ca30-b58f-47b5-aaa1-01cd1df43ed5
+Valor: R$3.0
+Data: 05/11/2025 as 09:15:03
+
+Id pagamento: a0dfcb52-05aa-4372-9532-fbcca651e082
+Valor: R$10.0
+Data: 19/01/2026 as 10:48:13
+
+Id pagamento: or_BjlAQ56UMUNGqmLp
+Valor: R$10.0
+Data: 23/02/2026 as 09:46:46

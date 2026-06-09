@@ -1,0 +1,17 @@
+<b>💰 Comprar Saldo com pix automático:
+
+⏱ Expira em: <i>{expiracao} Minutos</i>
+💰 Valor: <i>R${valor}</i>
+✨ ID da compra: <code>{id_pagamento}</code>
+
+📃 Este código "copia e cola" é valido para apenas 1 pagamento!
+Ou seja, se você utilizar ele mais de 1 vez para adicionar saldo, você PERDERAR o saldo e não tem direito a reembolso!</b>
+
+
+💎 <b>Pix copia e cola:</b>
+
+<code>{pix_copia_cola}</code>
+
+💡 <b>DICA:</b> <i>Clique no código para copia-lo.</i>
+
+🇧🇷 <b>Após o pagamento ser efetuado, seu saldo será liberado instantaneamente.</b>

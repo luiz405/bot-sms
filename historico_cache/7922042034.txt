@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 7922042034
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0d516c7-3a5a-4881-a6e1-a18fcaed2bf7
+Valor: R$3.0
+Data: 14/01/2026 as 03:05:06
+
+Id pagamento: a0d516c7-3a5a-4881-a6e1-a18fcaed2bf7
+Valor: R$3.0
+Data: 14/01/2026 as 03:06:02

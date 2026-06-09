@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 1551132778
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0dfb9f8-06e7-4435-a54a-caa23fcdf118
+Valor: R$5.0
+Data: 19/01/2026 as 09:59:42
+
+Id pagamento: a0dfb9f8-06e7-4435-a54a-caa23fcdf118
+Valor: R$5.0
+Data: 19/01/2026 as 10:00:13

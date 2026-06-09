@@ -1,0 +1,19 @@
+HISTÓRICO - USER: 8163882336
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 11.7
+Número: 5541997593675
+Data: 15/11/2025 as 01:44:47/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a05c4530-9ef3-4343-89bf-f5215babaf25
+Valor: R$12.0
+Data: 15/11/2025 as 01:39:43
+
+Id pagamento: a05c4530-9ef3-4343-89bf-f5215babaf25
+Valor: R$12.0
+Data: 15/11/2025 as 01:40:43

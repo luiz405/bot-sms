@@ -1,0 +1,10 @@
+🥳 <b>COMPRA REALIZADA COM SUCESSO</b> 🥳
+
+⚜️ <b>{nome}</b> ⚜️
+
+📧 <b>EMAIL:</b> <code>{email}</code>
+🔑 <b>SENHA:</b> <code>{senha}</code>
+
+⏰ <b>DURAÇÃO:</b> <code>{duracao}</code>
+
+<b>OBRIGADO PELA PREFERÊNCIA!</b>

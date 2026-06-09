@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 8131776429
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a08473d2-6482-4061-b27c-45822ab053af
+Valor: R$3.0
+Data: 05/12/2025 as 01:03:13
+
+Id pagamento: a08473d2-6482-4061-b27c-45822ab053af
+Valor: R$3.0
+Data: 05/12/2025 as 01:04:44

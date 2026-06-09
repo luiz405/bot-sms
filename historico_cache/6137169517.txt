@@ -1,0 +1,19 @@
+HISTÓRICO - USER: 6137169517
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 11.7
+Número: 5561981163866
+Data: 15/11/2025 as 16:42:09/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a05d857b-146f-42a8-b180-130cb8287fae
+Valor: R$11.7
+Data: 15/11/2025 as 16:35:19
+
+Id pagamento: a05d857b-146f-42a8-b180-130cb8287fae
+Valor: R$11.7
+Data: 15/11/2025 as 16:39:40

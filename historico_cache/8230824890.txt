@@ -1,0 +1,36 @@
+HISTÓRICO - USER: 8230824890
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 16.54
+Número: 5555984010145
+Data: 09/02/2026 as 18:00:32
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 2.00355
+Número: 639551846863
+Data: 19/02/2026 as 22:10:49
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 10.1973
+Número: 5551983450092
+Data: 22/02/2026 as 09:26:07
+Status: 💰 Reembolsada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0fa7fb8-39b8-49f8-a2c7-343664f0ca87
+Valor: R$3.0
+Data: 01/02/2026 as 17:24:10
+
+Id pagamento: a104c2cb-5332-49ff-a932-4381b8459c65
+Valor: R$20.0
+Data: 06/02/2026 as 19:50:00
+
+Id pagamento: a11f19d6-159d-41d0-95f8-3fa45131b5e5
+Valor: R$5.0
+Data: 19/02/2026 as 22:04:55

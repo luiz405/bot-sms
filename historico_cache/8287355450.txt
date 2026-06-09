@@ -1,0 +1,44 @@
+HISTÓRICO - USER: 8287355450
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 11.94
+Número: 5541997597641
+Data: 24/11/2025 as 08:47:14/
+
+Serviço: Whatsapp
+Valor: 11.94
+Número: 5546991062540
+Data: 24/11/2025 as 09:13:37/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a06ef839-3141-4d61-a8e2-59111f408ffd
+Valor: R$12.0
+Data: 24/11/2025 as 08:45:14
+
+Id pagamento: a06ef839-3141-4d61-a8e2-59111f408ffd
+Valor: R$12.0
+Data: 24/11/2025 as 08:46:10
+
+Id pagamento: a06f008d-bf31-4d10-8267-4b66d4edc5a3
+Valor: R$12.0
+Data: 24/11/2025 as 09:08:31
+
+Id pagamento: a06f008d-bf31-4d10-8267-4b66d4edc5a3
+Valor: R$12.0
+Data: 24/11/2025 as 09:09:17
+
+Id pagamento: a0b24bf8-1c9a-47d6-be4c-47012fcdb7e9
+Valor: R$24.0
+Data: 27/12/2025 as 19:59:52
+
+Id pagamento: a0b25470-c0cd-48b9-a24d-40adadbe3923
+Valor: R$12.24
+Data: 27/12/2025 as 20:23:35
+
+Id pagamento: a0b25470-c0cd-48b9-a24d-40adadbe3923
+Valor: R$12.24
+Data: 27/12/2025 as 20:24:06

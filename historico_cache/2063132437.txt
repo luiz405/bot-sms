@@ -1,0 +1,61 @@
+HISTÓRICO - USER: 2063132437
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 11.44
+Número: 5511920382964
+Data: 18/11/2025 as 09:43:40/
+
+Serviço: Whatsapp
+Valor: 11.76
+Número: 5511917315682
+Data: 18/11/2025 as 12:09:38/
+
+Serviço: Whatsapp
+Valor: 11.72
+Número: 5521965868963
+Data: 19/11/2025 as 08:14:44/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a062f5a0-5c29-4136-997b-e8d4c62a6232
+Valor: R$12.0
+Data: 18/11/2025 as 09:28:02
+
+Id pagamento: a062f5a0-5c29-4136-997b-e8d4c62a6232
+Valor: R$12.0
+Data: 18/11/2025 as 09:28:38
+
+Id pagamento: a0632cf2-d1a8-46b5-a901-3bba4ade5d8a
+Valor: R$12.0
+Data: 18/11/2025 as 12:02:43
+
+Id pagamento: a0632cf2-d1a8-46b5-a901-3bba4ade5d8a
+Valor: R$12.0
+Data: 18/11/2025 as 12:03:29
+
+Id pagamento: a0642c8b-01f9-442d-baed-85de685ff4a8
+Valor: R$12.0
+Data: 18/11/2025 as 23:57:25
+
+Id pagamento: a064d46e-6e62-4844-8f17-1f5e9c0d0923
+Valor: R$12.0
+Data: 19/11/2025 as 07:46:52
+
+Id pagamento: a064d46e-6e62-4844-8f17-1f5e9c0d0923
+Valor: R$12.0
+Data: 19/11/2025 as 07:49:13
+
+Id pagamento: a07a3fcd-befe-4af9-a414-7359e0a09851
+Valor: R$12.0
+Data: 29/11/2025 as 23:19:29
+
+Id pagamento: a07d28f5-8941-4511-8c0a-8a004d77ba66
+Valor: R$12.0
+Data: 01/12/2025 as 10:03:06
+
+Id pagamento: a07d28f5-8941-4511-8c0a-8a004d77ba66
+Valor: R$12.0
+Data: 01/12/2025 as 10:03:41

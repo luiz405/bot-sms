@@ -1,0 +1,66 @@
+HISTÓRICO - USER: 6867339306
+
+COMPRAS:
+
+Serviço: facebook
+Valor: 0.96
+Número: 5584998320428
+Data: 14/11/2025 as 19:41:09/
+
+Serviço: facebook
+Valor: 0.96
+Número: 5541998790798
+Data: 14/11/2025 as 20:46:56/
+
+Serviço: facebook
+Valor: 0.96
+Número: 5584986528713
+Data: 14/11/2025 as 22:23:44/
+
+Serviço: facebook
+Valor: 0.72
+Número: 5511932860423
+Data: 13/01/2026 as 18:16:00/
+
+Serviço: facebook
+Valor: 0.72
+Número: 5511943120389
+Data: 13/01/2026 as 18:53:19/
+
+Serviço: facebook
+Valor: 0.72
+Número: 5511910016801
+Data: 14/01/2026 as 14:32:31/
+
+Serviço: facebook
+Valor: 0.72
+Número: 5511930750612
+Data: 14/01/2026 as 16:54:53/
+
+Serviço: facebook
+Valor: 0.72
+Número: 5581996820338
+Data: 14/01/2026 as 17:31:33/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a05a3ac8-0c47-4ba9-a6ae-7f3e0cbce940
+Valor: R$3.0
+Data: 14/11/2025 as 01:18:57
+
+Id pagamento: a05a3ac8-0c47-4ba9-a6ae-7f3e0cbce940
+Valor: R$3.0
+Data: 14/11/2025 as 01:19:53
+
+Id pagamento: a06de997-3708-4a98-a407-e6b69467e1ed
+Valor: R$3.0
+Data: 23/11/2025 as 20:08:29
+
+Id pagamento: a0d45896-cb79-435a-9a07-7b07570fb0e8
+Valor: R$11.0
+Data: 13/01/2026 as 18:13:18
+
+Id pagamento: a0d45896-cb79-435a-9a07-7b07570fb0e8
+Valor: R$11.0
+Data: 13/01/2026 as 18:14:24

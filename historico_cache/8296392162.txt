@@ -1,0 +1,70 @@
+HISTÓRICO - USER: 8296392162
+
+COMPRAS:
+
+Serviço: Telegram
+Valor: 6.5
+Número: 5511979887176
+Data: 15/02/2026 as 14:09:41
+Status: ⏳ Ativa/Expirada
+
+Serviço: Telegram
+Valor: 7.125
+Número: 5516981780230
+Data: 05/03/2026 as 02:27:26
+Status: 💰 Reembolsada
+
+Serviço: Telegram
+Valor: 7.12
+Número: 5517982311192
+Data: 05/03/2026 as 02:34:24
+Status: 💰 Reembolsada
+
+Serviço: Telegram
+Valor: 9.975
+Número: 5588996993841
+Data: 05/03/2026 as 02:36:48
+Status: 💰 Reembolsada
+
+Serviço: Telegram
+Valor: 10.10325
+Número: 5511995948420
+Data: 05/03/2026 as 02:42:36
+Status: 💰 Reembolsada
+
+Serviço: Telegram
+Valor: 9.975
+Número: 5514981997667
+Data: 05/03/2026 as 02:45:43
+Status: 💰 Reembolsada
+
+Serviço: Telegram
+Valor: 7.125
+Número: 5511974418706
+Data: 05/03/2026 as 12:03:58
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Telegram
+Valor: 9.975
+Número: 5562982156788
+Data: 21/03/2026 as 09:29:10
+Status: 💰 Reembolsada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a1166126-0902-40a0-8fd3-4aeed4063521
+Valor: R$6.59
+Data: 15/02/2026 as 14:01:52
+
+Id pagamento: a1399d80-6517-408c-af65-af8c1df11af0
+Valor: R$7.03
+Data: 05/03/2026 as 02:24:36
+
+Id pagamento: a1399e2f-e802-4d28-9fd0-f758dbfed5f6
+Valor: R$3.0
+Data: 05/03/2026 as 02:26:31
+
+Id pagamento: or_l5DVM5fDAINPVqLo
+Valor: R$7.0
+Data: 21/03/2026 as 09:28:14

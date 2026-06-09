@@ -1,0 +1,22 @@
+HISTÓRICO - USER: 7626314058
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 14.677500000000002
+Número: 31684256083
+Data: 07/03/2026 as 21:08:24
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 10.7
+Número: 31626164032
+Data: 07/03/2026 as 21:14:21
+Status: ✅ Concluída (SMS recebido)
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a13f343b-0acc-4285-a269-fd4448401035
+Valor: R$17.1
+Data: 07/03/2026 as 21:05:13

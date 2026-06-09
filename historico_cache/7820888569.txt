@@ -1,0 +1,244 @@
+HISTÓRICO - USER: 7820888569
+
+COMPRAS:
+
+Serviço: Amazon
+Valor: 0.56
+Número: 5511982664096
+Data: 10/10/2025 as 19:59:49/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5519982350293
+Data: 11/10/2025 as 20:55:19/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5562984287428
+Data: 11/10/2025 as 21:26:10/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5562984287395
+Data: 12/10/2025 as 11:14:39/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5521972140284
+Data: 12/10/2025 as 11:48:25/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5568981022175
+Data: 12/10/2025 as 21:07:59/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5519987212167
+Data: 12/10/2025 as 21:20:20/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5519988440265
+Data: 13/10/2025 as 01:24:09/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5562984287807
+Data: 13/10/2025 as 02:05:12/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5561981739437
+Data: 13/10/2025 as 02:09:54/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5519988587289
+Data: 13/10/2025 as 09:52:24/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5519988530923
+Data: 13/10/2025 as 11:41:25/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5519988208190
+Data: 13/10/2025 as 13:48:07/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5519987709322
+Data: 13/10/2025 as 13:56:37/
+
+Serviço: Amazon
+Valor: 0.63
+Número: 5521959583929
+Data: 13/10/2025 as 15:58:39/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5521959593378
+Data: 13/10/2025 as 16:45:36/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5519988658281
+Data: 14/10/2025 as 10:48:56/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5519988559403
+Data: 14/10/2025 as 11:00:07/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5519988927752
+Data: 14/10/2025 as 11:39:53/
+
+Serviço: Amazon
+Valor: 0.32
+Número: 5519988358458
+Data: 14/10/2025 as 13:26:08/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5519987829804
+Data: 14/10/2025 as 15:42:27/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5511921424054
+Data: 14/10/2025 as 16:09:20/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5562993078361
+Data: 14/10/2025 as 23:27:08/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5515936196966
+Data: 15/10/2025 as 01:17:38/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5581998850019
+Data: 15/10/2025 as 02:14:29/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5519988320585
+Data: 15/10/2025 as 03:30:12/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5521959255068
+Data: 15/10/2025 as 03:35:16/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5519987762670
+Data: 15/10/2025 as 14:07:51/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5562984288417
+Data: 15/10/2025 as 14:09:52/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5519984590468
+Data: 15/10/2025 as 14:12:55/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5562984289204
+Data: 15/10/2025 as 14:16:20/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5519987316362
+Data: 15/10/2025 as 14:19:08/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5519988199314
+Data: 15/10/2025 as 14:36:05/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5521965405093
+Data: 15/10/2025 as 14:41:26/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5511952200571
+Data: 15/10/2025 as 14:55:45/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5561984881627
+Data: 15/10/2025 as 15:29:51/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5519988816137
+Data: 15/10/2025 as 16:11:44/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5562984288459
+Data: 15/10/2025 as 19:51:42/
+
+Serviço: 99app
+Valor: 1.65
+Número: 5519987285135
+Data: 15/10/2025 as 22:53:26/
+
+Serviço: Amazon
+Valor: 0.3
+Número: 5521989824370
+Data: 16/10/2025 as 13:25:13/
+
+Serviço: Amazon
+Valor: 0.3
+Número: 5521965268865
+Data: 16/10/2025 as 14:26:37/
+
+Serviço: Amazon
+Valor: 0.3
+Número: 5511978153954
+Data: 16/10/2025 as 14:58:48/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5571996573777
+Data: 16/10/2025 as 18:31:51/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5513936220367
+Data: 16/10/2025 as 18:34:42/
+
+Serviço: Amazon
+Valor: 0.3
+Número: 5512982080893
+Data: 16/10/2025 as 19:54:22/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5511933167134
+Data: 16/10/2025 as 23:16:42/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a01fd591-c73c-4534-a90c-0f35b1e83b5a
+Valor: R$5.0
+Data: 16/10/2025 as 00:37:56
+
+Id pagamento: a0213fdd-ebbf-4fa5-8f3c-c8bfa1bbf773
+Valor: R$5.0
+Data: 16/10/2025 as 17:31:00

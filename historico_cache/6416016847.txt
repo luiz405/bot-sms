@@ -1,0 +1,86 @@
+HISTÓRICO - USER: 6416016847
+
+COMPRAS:
+
+Serviço: 99app
+Valor: 1.67
+Número: 5521981283131
+Data: 14/10/2025 as 16:29:51/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5512983130069
+Data: 14/10/2025 as 16:37:49/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5519988781132
+Data: 14/10/2025 as 16:55:39/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5519988973779
+Data: 14/10/2025 as 16:58:25/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5511961655978
+Data: 14/10/2025 as 17:06:04/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5585997260233
+Data: 14/10/2025 as 17:09:31/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5561982076294
+Data: 14/10/2025 as 17:18:45/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5511950256439
+Data: 14/10/2025 as 17:21:10/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5561981979528
+Data: 14/10/2025 as 17:23:51/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5519987518064
+Data: 14/10/2025 as 18:51:38/
+
+Serviço: 99app
+Valor: 1.67
+Número: 5519987839362
+Data: 14/10/2025 as 18:56:50/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5512983069222
+Data: 18/10/2025 as 11:31:07/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5512983215673
+Data: 18/10/2025 as 11:32:42/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5512982079272
+Data: 18/10/2025 as 11:42:03/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5512982489833
+Data: 18/10/2025 as 13:55:29/
+
+Serviço: Uber
+Valor: 0.36
+Número: 5512983214678
+Data: 18/10/2025 as 14:06:35/
+
+__________________________________
+RECARGAS:

@@ -1,0 +1,3 @@
+<b>👨‍💻 Caso precise de ajuda, entre em contato com o nosso suporte: {link_suporte}
+
+👨‍💻 Lembre-se de ler os /termos do bot.</b>

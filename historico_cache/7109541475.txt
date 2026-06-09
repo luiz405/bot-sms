@@ -1,0 +1,50 @@
+HISTÓRICO - USER: 7109541475
+
+COMPRAS:
+
+Serviço: Uber
+Valor: 5.86815
+Número: 5519984431809
+Data: 14/03/2026 as 09:01:35
+Status: 💰 Reembolsada
+
+Serviço: Uber
+Valor: 0.5
+Número: 5544965911264
+Data: 14/03/2026 as 09:09:20
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: facebook
+Valor: 0.9975000000000002
+Número: 5585997741126
+Data: 27/03/2026 as 11:39:31
+Status: ⏳ Ativa/Expirada
+
+Serviço: facebook
+Valor: 1.27
+Número: 5531998212903
+Data: 27/03/2026 as 11:42:28
+Status: 💰 Reembolsada
+
+Serviço: facebook
+Valor: 1.27
+Número: 5521969994131
+Data: 27/03/2026 as 12:42:39
+Status: 💰 Reembolsada
+
+Serviço: facebook
+Valor: 1.27
+Número: 5551996443116
+Data: 27/03/2026 as 13:21:23
+Status: ⏳ Ativa/Expirada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a148320b-c9cf-4a52-b7a2-3634dd6cd71e
+Valor: R$18.0
+Data: 12/03/2026 as 08:21:33
+
+Id pagamento: a148a60a-8976-4f5a-b0bc-a6fefe701f59
+Valor: R$3.0
+Data: 12/03/2026 as 13:45:54

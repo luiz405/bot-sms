@@ -1,0 +1,8 @@
+{
+  "ativado": false,
+  "max_tentativas": 3,
+  "tempo_ban_minutos": 5,
+  "apenas_constantes": false,
+  "tempo_ban_progressivo": false,
+  "max_tentativas_consecutivas": 5
+}

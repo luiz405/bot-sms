@@ -1,0 +1,19 @@
+HISTÓRICO - USER: 1076630305
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 11.72
+Número: 5511977522655
+Data: 19/11/2025 as 08:37:01/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a06333bf-38dd-4796-b417-861303ef663e
+Valor: R$12.0
+Data: 18/11/2025 as 12:21:44
+
+Id pagamento: a06333bf-38dd-4796-b417-861303ef663e
+Valor: R$12.0
+Data: 18/11/2025 as 12:22:25

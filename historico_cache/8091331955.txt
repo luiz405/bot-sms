@@ -1,0 +1,57 @@
+HISTÓRICO - USER: 8091331955
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 4.3
+Número: 15795513295
+Data: 28/10/2025 as 10:48:02/
+
+Serviço: Whatsapp
+Valor: 4.3
+Número: 15197056512
+Data: 28/10/2025 as 18:48:45/
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 16394772803
+Data: 10/01/2026 as 13:30:54/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: 131533732418
+Valor: R$11.82
+Data: 27/10/2025 as 21:51:43
+
+Id pagamento: a0b5f637-392c-473b-a6c5-ba83cea19ef4
+Valor: R$3.0
+Data: 29/12/2025 as 15:43:24
+
+Id pagamento: a0b5f637-392c-473b-a6c5-ba83cea19ef4
+Valor: R$3.0
+Data: 29/12/2025 as 15:44:25
+
+Id pagamento: a0b64f9f-6757-4f60-b463-394be4c78ceb
+Valor: R$8.34
+Data: 29/12/2025 as 19:53:24
+
+Id pagamento: a0b64f9f-6757-4f60-b463-394be4c78ceb
+Valor: R$8.34
+Data: 29/12/2025 as 19:57:20
+
+Id pagamento: a0c3e8d1-70e8-47ba-accb-6c93e20e404e
+Valor: R$3.0
+Data: 05/01/2026 as 14:07:31
+
+Id pagamento: a0c3e8d1-70e8-47ba-accb-6c93e20e404e
+Valor: R$3.0
+Data: 05/01/2026 as 14:08:05
+
+Id pagamento: a0cdfa82-59f7-46c2-8d5e-ea393e07c704
+Valor: R$6.26
+Data: 10/01/2026 as 14:15:16
+
+Id pagamento: a0cdfa82-59f7-46c2-8d5e-ea393e07c704
+Valor: R$6.26
+Data: 10/01/2026 as 14:16:22

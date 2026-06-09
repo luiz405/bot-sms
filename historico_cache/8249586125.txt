@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 8249586125
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a04dfb75-028f-4321-93b0-2febea6a87c4
+Valor: R$15.0
+Data: 07/11/2025 as 23:11:57
+
+Id pagamento: a04dfb75-028f-4321-93b0-2febea6a87c4
+Valor: R$15.0
+Data: 07/11/2025 as 23:13:03

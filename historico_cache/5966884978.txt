@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 5966884978
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0b0d2dc-5441-4ee1-a1d1-5038273e4cfd
+Valor: R$12.24
+Data: 27/12/2025 as 02:25:23
+
+Id pagamento: a0b0d2dc-5441-4ee1-a1d1-5038273e4cfd
+Valor: R$12.24
+Data: 27/12/2025 as 02:26:29

@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 7508720904
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a05b89fe-be1c-4c12-86b7-abf15bfa4b13
+Valor: R$11.0
+Data: 14/11/2025 as 16:56:17
+
+Id pagamento: a05b89fe-be1c-4c12-86b7-abf15bfa4b13
+Valor: R$11.0
+Data: 14/11/2025 as 16:59:19

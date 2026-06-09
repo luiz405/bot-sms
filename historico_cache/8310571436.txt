@@ -1,0 +1,32 @@
+HISTÓRICO - USER: 8310571436
+
+COMPRAS:
+
+Serviço: 99app
+Valor: 1.66
+Número: 5513981845273
+Data: 02/12/2025 as 11:51:43/
+
+Serviço: 99app
+Valor: 1.72
+Número: 5561981227986
+Data: 02/12/2025 as 12:02:00/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a07f5215-a4c7-4728-85bf-4aaee778c689
+Valor: R$3.0
+Data: 02/12/2025 as 11:49:44
+
+Id pagamento: a07f5215-a4c7-4728-85bf-4aaee778c689
+Valor: R$3.0
+Data: 02/12/2025 as 11:50:35
+
+Id pagamento: a07f55c2-2649-4663-922d-c7157ff871d8
+Valor: R$3.0
+Data: 02/12/2025 as 12:00:01
+
+Id pagamento: a07f55c2-2649-4663-922d-c7157ff871d8
+Valor: R$3.0
+Data: 02/12/2025 as 12:00:42

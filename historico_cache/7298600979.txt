@@ -1,0 +1,50 @@
+HISTÓRICO - USER: 7298600979
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 1.86
+Número: 6283161132695
+Data: 03/12/2025 as 00:23:23/
+
+Serviço: Whatsapp
+Valor: 1.82
+Número: 628999924297
+Data: 03/12/2025 as 00:52:42/
+
+Serviço: Whatsapp
+Valor: 1.82
+Número: 6285821158159
+Data: 03/12/2025 as 20:43:18/
+
+Serviço: Whatsapp
+Valor: 1.92
+Número: 6281313290130
+Data: 05/12/2025 as 18:47:50/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a08057d9-40c0-4c28-b07b-60717cc78996
+Valor: R$3.0
+Data: 03/12/2025 as 00:01:41
+
+Id pagamento: a08057d9-40c0-4c28-b07b-60717cc78996
+Valor: R$3.0
+Data: 03/12/2025 as 00:03:52
+
+Id pagamento: a080686a-a3d8-408b-b983-ba1664b4e5ce
+Valor: R$3.0
+Data: 03/12/2025 as 00:48:01
+
+Id pagamento: a080686a-a3d8-408b-b983-ba1664b4e5ce
+Valor: R$3.0
+Data: 03/12/2025 as 00:49:57
+
+Id pagamento: a083dc5d-021b-465a-8dfb-7d789103465a
+Valor: R$3.0
+Data: 04/12/2025 as 17:59:42
+
+Id pagamento: a083dc5d-021b-465a-8dfb-7d789103465a
+Valor: R$3.0
+Data: 04/12/2025 as 18:01:53

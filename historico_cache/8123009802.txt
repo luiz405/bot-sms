@@ -1,0 +1,149 @@
+HISTÓRICO - USER: 8123009802
+
+COMPRAS:
+
+Serviço: facebook
+Valor: 0.95
+Número: 5547997500809
+Data: 12/10/2025 as 12:00:26/
+
+Serviço: Whatsapp
+Valor: 5.24
+Número: 573044499159
+Data: 12/10/2025 as 12:50:36/
+
+Serviço: facebook
+Valor: 0.53
+Número: 573181524599
+Data: 12/10/2025 as 13:04:43/
+
+Serviço: facebook
+Valor: 0.53
+Número: 573150233849
+Data: 12/10/2025 as 20:20:20/
+
+Serviço: facebook
+Valor: 0.53
+Número: 573157364941
+Data: 13/10/2025 as 12:29:23/
+
+Serviço: Whatsapp
+Valor: 2.91
+Número: 639641563443
+Data: 13/10/2025 as 20:16:38/
+
+Serviço: Whatsapp
+Valor: 1.84
+Número: 6283120897387
+Data: 14/10/2025 as 12:58:53/
+
+Serviço: facebook
+Valor: 0.68
+Número: 918335816255
+Data: 14/10/2025 as 15:48:27/
+
+Serviço: facebook
+Valor: 0.78
+Número: 94755913908
+Data: 14/10/2025 as 21:44:28/
+
+Serviço: Whatsapp
+Valor: 1.82
+Número: 6285891106862
+Data: 14/10/2025 as 23:01:32/
+
+Serviço: Whatsapp
+Valor: 2.87
+Número: 639078973995
+Data: 15/10/2025 as 00:55:03/
+
+Serviço: facebook
+Valor: 0.51
+Número: 212771229204
+Data: 15/10/2025 as 19:13:50/
+
+Serviço: facebook
+Valor: 1.05
+Número: 524531316001
+Data: 15/10/2025 as 22:15:39/
+
+Serviço: facebook
+Valor: 0.78
+Número: 94703660823
+Data: 16/10/2025 as 12:36:52/
+
+Serviço: facebook
+Valor: 1.23
+Número: 967736231837
+Data: 16/10/2025 as 12:46:21/
+
+Serviço: Whatsapp
+Valor: 2.85
+Número: 639079553483
+Data: 16/10/2025 as 13:00:18/
+
+Serviço: facebook
+Valor: 0.93
+Número: 5516999114506
+Data: 16/10/2025 as 13:11:34/
+
+Serviço: facebook
+Valor: 0.93
+Número: 5541997660108
+Data: 16/10/2025 as 14:01:42/
+
+Serviço: facebook
+Valor: 1.44
+Número: 67574668132
+Data: 16/10/2025 as 16:05:49/
+
+Serviço: facebook
+Valor: 0.93
+Número: 5511962622497
+Data: 16/10/2025 as 16:10:26/
+
+Serviço: facebook
+Valor: 0.93
+Número: 5511912543465
+Data: 16/10/2025 as 21:06:10/
+
+Serviço: facebook
+Valor: 0.78
+Número: 34633477867
+Data: 16/10/2025 as 22:28:15/
+
+Serviço: facebook
+Valor: 0.93
+Número: 5512983202410
+Data: 16/10/2025 as 22:31:41/
+
+Serviço: Whatsapp
+Valor: 2.85
+Número: 639307414232
+Data: 17/10/2025 as 09:38:55/
+
+Serviço: facebook
+Valor: 0.93
+Número: 5512983203454
+Data: 17/10/2025 as 10:08:34/
+
+Serviço: Whatsapp
+Valor: 2.85
+Número: 639709765189
+Data: 17/10/2025 as 16:30:15/
+
+Serviço: facebook
+Valor: 0.93
+Número: 5584981255741
+Data: 17/10/2025 as 18:15:31/
+
+__________________________________
+RECARGAS:
+
+Id pagamento: pay_4nfolbq0qhwat097
+Valor: R$6.0
+Data: 12/10/2025 as 12:48:47
+
+Id pagamento: pay_e3tjy7jxfk0sz3v7
+Valor: R$10.0
+Data: 14/10/2025 as 12:35:15

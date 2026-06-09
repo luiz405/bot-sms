@@ -1,0 +1,16 @@
+HISTÓRICO - USER: 5689411390
+
+COMPRAS:
+
+Serviço: facebook
+Valor: 1.2825
+Número: 5511949378711
+Data: 18/03/2026 as 07:34:41
+Status: ✅ Concluída (SMS recebido)
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a10ad11b-aff8-497f-b360-9c0aa82c8ebb
+Valor: R$5.0
+Data: 09/02/2026 as 20:05:00

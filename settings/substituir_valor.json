@@ -1,0 +1,639 @@
+{
+    "servicos": [
+        {
+            "id": "tg",
+            "nome": "Telegram",
+            "valor": "1.84"
+        },
+        {
+            "id": "ig",
+            "nome": "Instagram",
+            "valor": "0.46"
+        },
+        {
+            "id": "wa",
+            "nome": "Whatsapp",
+            "valor": "6.69"
+        },
+        {
+            "id": "fb",
+            "nome": "facebook",
+            "valor": "0.55"
+        },
+        {
+            "id": "go",
+            "nome": "Google",
+            "valor": "1.35"
+        },
+        {
+            "id": "tw",
+            "nome": "Twitter",
+            "valor": "0.31"
+        },
+        {
+            "id": "mm",
+            "nome": "Microsoft",
+            "valor": "0.37"
+        },
+        {
+            "id": "hw",
+            "nome": "Alipay",
+            "valor": "0.34"
+        },
+        {
+            "id": "am",
+            "nome": "Amazon",
+            "valor": "0.49"
+        },
+        {
+            "id": "oi",
+            "nome": "Tinder",
+            "valor": "1.53"
+        },
+        {
+            "id": "ds",
+            "nome": "Discord",
+            "valor": "0.09"
+        },
+        {
+            "id": "mt",
+            "nome": "Steam",
+            "valor": "0.17"
+        },
+        {
+            "id": "lf",
+            "nome": "TikTok",
+            "valor": "0.09"
+        },
+        {
+            "id": "me",
+            "nome": "Line messenger",
+            "valor": "0.92"
+        },
+        {
+            "id": "ot",
+            "nome": "Outros",
+            "valor": "1.22"
+        },
+        {
+            "id": "nv",
+            "nome": "Naver",
+            "valor": "0.31"
+        },
+        {
+            "id": "dr",
+            "nome": "OpenAI",
+            "valor": "1.22"
+        },
+        {
+            "id": "tn",
+            "nome": "LinkedIN",
+            "valor": "0.06"
+        },
+        {
+            "id": "vk",
+            "nome": "VK",
+            "valor": "0.31"
+        },
+        {
+            "id": "ew",
+            "nome": "Nike",
+            "valor": "0.61"
+        },
+        {
+            "id": "mb",
+            "nome": "Yahoo",
+            "valor": "0.18"
+        },
+        {
+            "id": "dh",
+            "nome": "eBay",
+            "valor": "0.21"
+        },
+        {
+            "id": "pm",
+            "nome": "AOL",
+            "valor": "0.06"
+        },
+        {
+            "id": "ts",
+            "nome": "PayPal",
+            "valor": "0.80"
+        },
+        {
+            "id": "dl",
+            "nome": "Lazada",
+            "valor": "1.53"
+        },
+        {
+            "id": "ok",
+            "nome": "classmatesok.ru",
+            "valor": "0.18"
+        },
+        {
+            "id": "ka",
+            "nome": "Shopee",
+            "valor": "1.53"
+        },
+        {
+            "id": "nz",
+            "nome": "Foodpanda",
+            "valor": "0.31"
+        },
+        {
+            "id": "ub",
+            "nome": "Uber",
+            "valor": "0.73"
+        },
+        {
+            "id": "ki",
+            "nome": "99app",
+            "valor": "0.98"
+        },
+        {
+            "id": "wb",
+            "nome": "WeChat",
+            "valor": "1.63"
+        },
+        {
+            "id": "yw",
+            "nome": "Grindr",
+            "valor": "0.06"
+        },
+        {
+            "id": "bw",
+            "nome": "Signal",
+            "valor": "0.35"
+        },
+        {
+            "id": "vi",
+            "nome": "Viber",
+            "valor": "0.14"
+        },
+        {
+            "id": "kt",
+            "nome": "KakaoTalk",
+            "valor": "0.73"
+        },
+        {
+            "id": "sn",
+            "nome": "Olx",
+            "valor": "0.55"
+        },
+        {
+            "id": "pf",
+            "nome": "pof.com",
+            "valor": "0.46"
+        },
+        {
+            "id": "qf",
+            "nome": "RedBook",
+            "valor": "0.15"
+        },
+        {
+            "id": "wx",
+            "nome": "Apple",
+            "valor": "0.31"
+        },
+        {
+            "id": "yl",
+            "nome": "Yallah",
+            "valor": "0.24"
+        },
+        {
+            "id": "fu",
+            "nome": "Snapchat",
+            "valor": "0.06"
+        },
+        {
+            "id": "xk",
+            "nome": "DiDi\u0434\u0438\u0434\u0438",
+            "valor": "0.61"
+        },
+        {
+            "id": "pd",
+            "nome": "IFood",
+            "valor": "1.22"
+        },
+        {
+            "id": "df",
+            "nome": "Happn",
+            "valor": "0.35"
+        },
+        {
+            "id": "mv",
+            "nome": "Fruitz",
+            "valor": "0.35"
+        },
+        {
+            "id": "pc",
+            "nome": "Casino",
+            "valor": "2.14"
+        },
+        {
+            "id": "vz",
+            "nome": "Hinge",
+            "valor": "0.61"
+        },
+        {
+            "id": "nf",
+            "nome": "Netflix",
+            "valor": "0.86"
+        },
+        {
+            "id": "cq",
+            "nome": "Mercado",
+            "valor": "0.61"
+        },
+        {
+            "id": "mo",
+            "nome": "Bumble",
+            "valor": "0.31"
+        },
+        {
+            "id": "uk",
+            "nome": "Airbnb",
+            "valor": "1.53"
+        },
+        {
+            "id": "fx",
+            "nome": "PGbonus",
+            "valor": "0.61"
+        },
+        {
+            "id": "ev",
+            "nome": "Picpay ",
+            "valor": "0.49"
+        },
+        {
+            "id": "kf",
+            "nome": "Weibo",
+            "valor": "0.28"
+        },
+        {
+            "id": "qq",
+            "nome": "Tencent QQ",
+            "valor": "0.18"
+        },
+        {
+            "id": "ie",
+            "nome": "bet365",
+            "valor": "4.59"
+        },
+        {
+            "id": "ns",
+            "nome": "Oldubil",
+            "valor": "1.22"
+        },
+        {
+            "id": "em",
+            "nome": "Z\u00e9Delivery",
+            "valor": "0.61"
+        },
+        {
+            "id": "et",
+            "nome": "ClubHouse",
+            "valor": "0.31"
+        },
+        {
+            "id": "ad",
+            "nome": "Iti",
+            "valor": "0.12"
+        },
+        {
+            "id": "pu",
+            "nome": "Justdating",
+            "valor": "0.46"
+        },
+        {
+            "id": "gj",
+            "nome": "Carousell",
+            "valor": "0.92"
+        },
+        {
+            "id": "qv",
+            "nome": "Badoo",
+            "valor": "0.70"
+        },
+        {
+            "id": "fd",
+            "nome": "Mamba",
+            "valor": "0.15"
+        },
+        {
+            "id": "aaa",
+            "nome": "Nubank",
+            "valor": "1.76"
+        },
+        {
+            "id": "ua",
+            "nome": "BlaBlaCar",
+            "valor": "1.22"
+        },
+        {
+            "id": "nc",
+            "nome": "Payoneer",
+            "valor": "1.22"
+        },
+        {
+            "id": "za",
+            "nome": "JDcom",
+            "valor": "0.37"
+        },
+        {
+            "id": "zh",
+            "nome": "Zoho",
+            "valor": "0.21"
+        },
+        {
+            "id": "lj",
+            "nome": "Santander",
+            "valor": "0.31"
+        },
+        {
+            "id": "bl",
+            "nome": "BIGO LIVE",
+            "valor": "0.15"
+        },
+        {
+            "id": "vg",
+            "nome": "ShellBox",
+            "valor": "0.76"
+        },
+        {
+            "id": "rl",
+            "nome": "inDriver",
+            "valor": "0.31"
+        },
+        {
+            "id": "wc",
+            "nome": "Craigslist",
+            "valor": "0.61"
+        },
+        {
+            "id": "gr",
+            "nome": "Astropay",
+            "valor": "1.04"
+        },
+        {
+            "id": "xu",
+            "nome": "RecargaPay",
+            "valor": "1.04"
+        },
+        {
+            "id": "li",
+            "nome": "Baidu",
+            "valor": "0.35"
+        },
+        {
+            "id": "cn",
+            "nome": "Fiverr",
+            "valor": "0.70"
+        },
+        {
+            "id": "sm",
+            "nome": "YoWin",
+            "valor": "1.22"
+        },
+        {
+            "id": "kx",
+            "nome": "Vivo",
+            "valor": "0.43"
+        },
+        {
+            "id": "vp",
+            "nome": "Kwai",
+            "valor": "0.98"
+        },
+        {
+            "id": "dp",
+            "nome": "ProtonMail",
+            "valor": "0.06"
+        },
+        {
+            "id": "ix",
+            "nome": "Celcoin",
+            "valor": "0.92"
+        },
+        {
+            "id": "ml",
+            "nome": "ApostaGanha",
+            "valor": "0.73"
+        },
+        {
+            "id": "oj",
+            "nome": "LoveRu",
+            "valor": "1.22"
+        },
+        {
+            "id": "cj",
+            "nome": "Dotz",
+            "valor": "1.22"
+        },
+        {
+            "id": "vc",
+            "nome": "Banqi",
+            "valor": "0.49"
+        },
+        {
+            "id": "my",
+            "nome": "CAIXA",
+            "valor": "0.76"
+        },
+        {
+            "id": "ky",
+            "nome": "SpatenOktoberfest",
+            "valor": "0.92"
+        },
+        {
+            "id": "il",
+            "nome": "IQOS\u0430\u0439\u043a\u043e\u0441",
+            "valor": "0.15"
+        },
+        {
+            "id": "fj",
+            "nome": "Potato Chat",
+            "valor": "0.31"
+        },
+        {
+            "id": "sy",
+            "nome": "Brahma",
+            "valor": "0.80"
+        },
+        {
+            "id": "yi",
+            "nome": "Yemeksepeti",
+            "valor": "0.61"
+        },
+        {
+            "id": "ax",
+            "nome": "CrefisaMais",
+            "valor": "0.92"
+        },
+        {
+            "id": "fa",
+            "nome": "XadrezFeliz",
+            "valor": "0.80"
+        },
+        {
+            "id": "jd",
+            "nome": "GiraBank",
+            "valor": "0.92"
+        },
+        {
+            "id": "iq",
+            "nome": "icq",
+            "valor": "0.18"
+        },
+        {
+            "id": "xr",
+            "nome": "Tango",
+            "valor": "0.49"
+        },
+        {
+            "id": "zt",
+            "nome": "Budweiser",
+            "valor": "0.80"
+        },
+        {
+            "id": "aa",
+            "nome": "Probo",
+            "valor": "1.53"
+        },
+        {
+            "id": "gg",
+            "nome": "PagSmile",
+            "valor": "0.49"
+        },
+        {
+            "id": "rb",
+            "nome": "Tick",
+            "valor": "0.92"
+        },
+        {
+            "id": "jo",
+            "nome": "SticPay",
+            "valor": "0.95"
+        },
+        {
+            "id": "aex",
+            "nome": "Neon",
+            "valor": "1.16"
+        },
+        {
+            "id": "uf",
+            "nome": "Eneba",
+            "valor": "1.10"
+        },
+        {
+            "id": "aez",
+            "nome": "Shein",
+            "valor": "1.16"
+        },
+        {
+            "id": "xo",
+            "nome": "Notifire",
+            "valor": "0.70"
+        },
+        {
+            "id": "om",
+            "nome": "Corona",
+            "valor": "0.49"
+        },
+        {
+            "id": "abf",
+            "nome": "Mercado Pago",
+            "valor": "0.92"
+        },
+        {
+            "id": "mp",
+            "nome": "Winmasters",
+            "valor": "1.35"
+        },
+        {
+            "id": "ht",
+            "nome": "Bitso",
+            "valor": "0.73"
+        },
+        {
+            "id": "abg",
+            "nome": "PagBank",
+            "valor": "0.92"
+        },
+        {
+            "id": "pb",
+            "nome": "SkyTV",
+            "valor": "1.22"
+        },
+        {
+            "id": "xv",
+            "nome": "Wish",
+            "valor": "0.61"
+        },
+        {
+            "id": "abp",
+            "nome": "D5BET",
+            "valor": "1.34"
+        },
+        {
+            "id": "gm",
+            "nome": "MocoSpace",
+            "valor": "0.49"
+        },
+        {
+            "id": "eb",
+            "nome": "Voltz",
+            "valor": "0.80"
+        },
+        {
+            "id": "lz",
+            "nome": "Things",
+            "valor": "1.22"
+        },
+        {
+            "id": "xp",
+            "nome": "MonetaRu",
+            "valor": "1.06"
+        },
+        {
+            "id": "ra",
+            "nome": "KeyPay",
+            "valor": "0.61"
+        },
+        {
+            "id": "aey",
+            "nome": "Next",
+            "valor": "1.16"
+        },
+        {
+            "id": "dq",
+            "nome": "IceCasino",
+            "valor": "0.80"
+        },
+        {
+            "id": "ik",
+            "nome": "GuruBets",
+            "valor": "0.61"
+        },
+        {
+            "id": "sv",
+            "nome": "DostaVista",
+            "valor": "0.61"
+        },
+        {
+            "id": "sa",
+            "nome": "AGIBANK",
+            "valor": "1.16"
+        },
+        {
+            "id": "uy",
+            "nome": "Meliuz",
+            "valor": "0.31"
+        },
+        {
+            "id": "xx",
+            "nome": "Joyride",
+            "valor": "0.18"
+        }
+    ]
+}

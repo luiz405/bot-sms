@@ -1,0 +1,20 @@
+HISTÓRICO - USER: 5183319784
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 9.890925000000001
+Número: 5511980510299
+Data: 16/02/2026 as 08:11:38
+Status: ⏳ Ativa/Expirada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a116b3cf-4643-4fe7-ba07-e2fa65a6e522
+Valor: R$3.0
+Data: 15/02/2026 as 17:53:00
+
+Id pagamento: a117e5fe-1e69-4b45-80b7-3581b1d86f23
+Valor: R$7.0
+Data: 16/02/2026 as 08:09:10

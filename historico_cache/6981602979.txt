@@ -1,0 +1,28 @@
+HISTÓRICO - USER: 6981602979
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 10.6875
+Número: 31684998770
+Data: 17/03/2026 as 14:09:47
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 10.700325
+Número: 31687907372
+Data: 17/03/2026 as 14:32:09
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 10.7
+Número: 31684931377
+Data: 17/03/2026 as 14:36:15
+Status: 💰 Reembolsada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: or_r7MRxv1FKsG8paJ8
+Valor: R$10.7
+Data: 17/03/2026 as 14:09:20

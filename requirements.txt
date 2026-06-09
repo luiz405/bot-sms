@@ -1,0 +1,14 @@
+pyTelegramBotAPI
+pynubank
+mercadopago
+Levenshtein
+pytz
+smsactivate
+gerencianet
+requests
+flask
+httpx
+qrcode
+pillow
+APScheduler
+matplotlib

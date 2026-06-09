@@ -1,0 +1,58 @@
+HISTÓRICO - USER: 6473242453
+
+COMPRAS:
+
+Serviço: Microsoft
+Valor: 0.33
+Número: 5511977907406
+Data: 12/02/2026 as 19:59:21
+Status: ⏳ Ativa/Expirada
+
+Serviço: Microsoft
+Valor: 0.33
+Número: 5579991800748
+Data: 12/02/2026 as 21:22:27
+Status: ⏳ Ativa/Expirada
+
+Serviço: Microsoft
+Valor: 0.33
+Número: 5517936206998
+Data: 12/02/2026 as 21:26:12
+Status: ⏳ Ativa/Expirada
+
+Serviço: Microsoft
+Valor: 0.33
+Número: 5511979986232
+Data: 13/02/2026 as 07:54:31
+Status: ⏳ Ativa/Expirada
+
+Serviço: Microsoft
+Valor: 0.320625
+Número: 5519988377349
+Data: 24/03/2026 as 11:45:44
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Microsoft
+Valor: 0.35
+Número: 5519988886536
+Data: 24/03/2026 as 12:02:51
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Microsoft
+Valor: 0.320625
+Número: 5519987255326
+Data: 24/03/2026 as 14:25:31
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Microsoft
+Valor: 0.320625
+Número: 5516995877530
+Data: 24/03/2026 as 22:43:30
+Status: ⏳ Ativa/Expirada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0cfc4c3-6bd7-48df-ba17-27075e6edf41
+Valor: R$3.0
+Data: 11/01/2026 as 11:36:38

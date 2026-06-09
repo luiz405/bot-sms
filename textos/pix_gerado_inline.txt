@@ -1,0 +1,9 @@
+<b>💠 PIX GERADO! 💠</b>
+
+<b>⚠️ ID DO PAGAMENTO:</b> {id_pagamento}
+<b>💸 VALOR:</b> {valor}
+<b>🚨 EXPIRA EM: {expiracao} minutos</b>
+
+<code>{pix_copia_cola}</code>
+
+<b>💡 Dica: Clique no código para copia-lo 👆</b>

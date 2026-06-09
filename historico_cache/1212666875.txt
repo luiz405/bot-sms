@@ -1,0 +1,354 @@
+HISTÓRICO - USER: 1212666875
+
+COMPRAS:
+
+Serviço: Whatsapp
+Valor: 11.94
+Número: 5511980923591
+Data: 13/12/2025 as 17:23:39
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 11.94
+Número: 5516989832799
+Data: 13/12/2025 as 18:11:29
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 11.94
+Número: 5516990651739
+Data: 13/12/2025 as 21:57:05
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 11.94
+Número: 5516996799025
+Data: 14/12/2025 as 13:27:07
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 11.94
+Número: 5586998410046
+Data: 14/12/2025 as 13:33:46
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 11.94
+Número: 5511980607641
+Data: 14/12/2025 as 18:32:19
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 11.44
+Número: 5511980502583
+Data: 14/12/2025 as 23:05:42
+Status: ⏳ Ativa/Expirada
+
+Serviço: facebook
+Valor: 0.72
+Número: 5511954301320
+Data: 15/01/2026 as 21:59:03
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 18734737993
+Data: 15/01/2026 as 22:06:53
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 15794778777
+Data: 15/01/2026 as 22:11:34
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 15793831103
+Data: 15/01/2026 as 22:34:13
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 15793840501
+Data: 15/01/2026 as 23:59:59
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 18734744734
+Data: 16/01/2026 as 00:36:30
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 18734834595
+Data: 16/01/2026 as 00:55:00
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 15796635035
+Data: 16/01/2026 as 11:04:23
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 15815869735
+Data: 16/01/2026 as 11:24:34
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 18735298385
+Data: 16/01/2026 as 11:44:15
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 15794779338
+Data: 16/01/2026 as 13:34:11
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 16722736108
+Data: 16/01/2026 as 17:34:00
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 15069016987
+Data: 16/01/2026 as 17:55:55
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 15794759043
+Data: 16/01/2026 as 18:26:39
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 4.16
+Número: 12369521805
+Data: 16/01/2026 as 18:45:26
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 5.700000000000001
+Número: 14189128220
+Data: 16/02/2026 as 12:47:58
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 5.415
+Número: 18255951371
+Data: 16/02/2026 as 16:38:46
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 5.415
+Número: 16728988016
+Data: 16/02/2026 as 16:53:56
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 5.415
+Número: 14284966890
+Data: 16/02/2026 as 17:38:59
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 14284049533
+Data: 16/02/2026 as 17:40:25
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 15875560277
+Data: 16/02/2026 as 17:41:02
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 12368760837
+Data: 16/02/2026 as 17:53:40
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 15815851959
+Data: 16/02/2026 as 17:59:57
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 18255952775
+Data: 16/02/2026 as 18:11:04
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 17822076531
+Data: 16/02/2026 as 18:40:11
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 18255951542
+Data: 16/02/2026 as 19:23:46
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 15875560485
+Data: 16/02/2026 as 19:40:48
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 18732860849
+Data: 16/02/2026 as 19:41:21
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 18255951396
+Data: 16/02/2026 as 19:45:32
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 12499416135
+Data: 16/02/2026 as 19:47:13
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 15196097724
+Data: 16/02/2026 as 19:48:19
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 18678887295
+Data: 16/02/2026 as 19:53:28
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 12366362676
+Data: 16/02/2026 as 19:55:43
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 5.7
+Número: 15483931029
+Data: 16/02/2026 as 19:56:54
+Status: ✅ Concluída (SMS recebido)
+
+Serviço: Whatsapp
+Valor: 5.700000000000001
+Número: 17532063198
+Data: 27/02/2026 as 00:16:54
+Status: ✅ Concluída (SMS recebido)
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a095e93c-f5b6-468f-8d4c-e7260f57d47b
+Valor: R$12.0
+Data: 13/12/2025 as 17:20:37
+
+Id pagamento: a095f595-76fa-48d2-a2cc-aa3a393c89b4
+Valor: R$24.0
+Data: 13/12/2025 as 17:55:08
+
+Id pagamento: a0979a02-5161-42c7-a2bb-10a1db012904
+Valor: R$10.0
+Data: 14/12/2025 as 13:30:43
+
+Id pagamento: a097e9ce-3cf1-4842-86fc-11289df9b40c
+Valor: R$12.0
+Data: 14/12/2025 as 17:13:51
+
+Id pagamento: a09866f2-0166-4b4a-be52-b0b096622b3d
+Valor: R$12.0
+Data: 14/12/2025 as 23:03:46
+
+Id pagamento: a098821c-b255-4a12-bd1d-052b0095cf20
+Valor: R$12.0
+Data: 15/12/2025 as 00:19:44
+
+Id pagamento: a0d8d913-e088-48be-a89c-7e9de93dd3b6
+Valor: R$5.0
+Data: 15/01/2026 as 23:55:53
+
+Id pagamento: a0d8e684-a102-4653-8168-b5341c916cc8
+Valor: R$5.0
+Data: 16/01/2026 as 00:33:28
+
+Id pagamento: a0d8ed7a-d0ee-4305-a106-3f4f17bdb465
+Valor: R$5.0
+Data: 16/01/2026 as 00:52:56
+
+Id pagamento: a0d9c6f3-0312-4dec-9c66-481b82af6440
+Valor: R$5.0
+Data: 16/01/2026 as 11:01:02
+
+Id pagamento: a0d9ce9a-3e2a-4fe2-bb8c-b41d1e1f3453
+Valor: R$5.5
+Data: 16/01/2026 as 11:22:26
+
+Id pagamento: a0d9e25a-ef73-43d7-81b7-90d6dab4179e
+Valor: R$10.0
+Data: 16/01/2026 as 12:17:40
+
+Id pagamento: a0da5a79-dc58-4e5f-94a3-b191b29bd634
+Valor: R$10.0
+Data: 16/01/2026 as 17:53:33
+
+Id pagamento: a0da6c85-1958-41c3-8499-6eeb97af8679
+Valor: R$10.0
+Data: 16/01/2026 as 18:44:00
+
+Id pagamento: a1189bcf-e22d-4c4c-88a2-f9607d87cac5
+Valor: R$10.0
+Data: 16/02/2026 as 16:37:34
+
+Id pagamento: a118b0d1-3a9d-4306-b0fc-cde6cb440b2c
+Valor: R$10.0
+Data: 16/02/2026 as 17:36:18
+
+Id pagamento: a118b0dc-6025-4501-9796-49cb75d79be1
+Valor: R$10.0
+Data: 16/02/2026 as 17:36:26
+
+Id pagamento: a118b0fa-64f2-47f9-89a0-36f07206bf7e
+Valor: R$10.0
+Data: 16/02/2026 as 17:36:45
+
+Id pagamento: a118b102-747b-44ec-96b0-c967168f02da
+Valor: R$10.0
+Data: 16/02/2026 as 17:36:50
+
+Id pagamento: a118b114-d5eb-4512-9372-bb472547c7e0
+Valor: R$10.0
+Data: 16/02/2026 as 17:37:02
+
+Id pagamento: a118b8f3-e919-47bc-937a-e7b6f67b935f
+Valor: R$10.0
+Data: 16/02/2026 as 17:59:03
+
+Id pagamento: a118c4cb-54f2-4715-8222-4b06b080c06e
+Valor: R$10.0
+Data: 16/02/2026 as 18:32:09
+
+Id pagamento: a118d177-76c9-4f2e-8727-5ba68108a547
+Valor: R$15.0
+Data: 16/02/2026 as 19:07:35
+
+Id pagamento: a118e18c-d6ed-4082-9cbe-25690018af23
+Valor: R$10.0
+Data: 16/02/2026 as 19:52:34

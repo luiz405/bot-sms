@@ -1,0 +1,14 @@
+HISTÓRICO - USER: 6258025361
+
+COMPRAS:
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a0b6555d-8b8d-477c-961e-e2b777264b65
+Valor: R$5.0
+Data: 29/12/2025 as 20:09:27
+
+Id pagamento: a0b6555d-8b8d-477c-961e-e2b777264b65
+Valor: R$5.0
+Data: 29/12/2025 as 20:09:53

@@ -1,0 +1,46 @@
+HISTÓRICO - USER: 1952693977
+
+COMPRAS:
+
+Serviço: 99app
+Valor: 2.08
+Número: 5518981992134
+Data: 10/02/2026 as 21:55:21
+Status: ⏳ Ativa/Expirada
+
+Serviço: Uber
+Valor: 0.45
+Número: 5511978004070
+Data: 11/02/2026 as 21:24:12
+Status: ⏳ Ativa/Expirada
+
+Serviço: Whatsapp
+Valor: 13.242525
+Número: 5531994290549
+Data: 22/02/2026 as 18:28:56
+Status: 💰 Reembolsada
+
+Serviço: Whatsapp
+Valor: 10.05
+Número: 5522988760098
+Data: 22/02/2026 as 18:34:15
+Status: 💰 Reembolsada
+
+__________________________________
+RECARGAS:
+
+Id pagamento: a08c3db4-21b0-4587-8a26-6f97a192e72c
+Valor: R$12.0
+Data: 08/12/2025 as 21:58:31
+
+Id pagamento: a10cf7b6-4fe0-44dc-82b2-45c34f55eec2
+Valor: R$3.0
+Data: 10/02/2026 as 21:44:36
+
+Id pagamento: a10ef072-e1cd-48ba-b275-ceb41f093727
+Valor: R$3.0
+Data: 11/02/2026 as 21:15:57
+
+Id pagamento: or_ad0A9DDt4hx69EoD
+Valor: R$10.0
+Data: 21/02/2026 as 19:47:05
