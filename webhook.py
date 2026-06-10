@@ -58,7 +58,7 @@ def send_telegram_message(chat_id, text, parse_mode='Markdown'):
             logger.error("Token do bot não encontrado")
             return False
         
-        url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+        url = f"https://api.telegram.org/bot8681198091:AAGtaDU2EfJJkIXGogaX42aqeckJqEKZ9oM/sendMessage"
         data = {
             'chat_id': chat_id,
             'text': text,
